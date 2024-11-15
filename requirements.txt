@@ -3,3 +3,4 @@ torch>=1.7.0
 numpy
 labml-helpers>=0.4.75
 labml-nn>=0.4.88
+flask
